@@ -1,2 +1,2 @@
 # Fugacity
- Machine Learning Hackathon, Fugacity, IIT Kharagpur
+ Ranked 2nd out of 100+ teams in Fugacity Hackathon! This project predicts relative humidity by leveraging a feature-engineered dataset containing temperature, absolute humidity, and specific particle presence indicators. Achieved 97.45% accuracy using XGBoost with innovative feature engineering, including logarithmic transformations of absolute humidity. A high-accuracy stacked model was also implemented, combining two SVM layers and an RFC layer, followed by an RFC output layer, reaching an impressive 99.6% accuracy.
